@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94150147-9893-44f8-b822-e694f8cdd60d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/buysellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/phrasepalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singledigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/duplicateusinghashset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/majorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reversingLinkedlist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1763648009370</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="basic ques">
+      <created>1763825430050</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763825430050</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
