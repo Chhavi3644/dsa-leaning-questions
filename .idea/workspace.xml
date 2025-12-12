@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94150147-9893-44f8-b822-e694f8cdd60d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/guess_number_higher_or_lower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverse_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first_unique_character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ransom_note.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,13 +76,21 @@
       <option name="project" value="LOCAL" />
       <updated>1764260554386</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ques_01/12/2025">
+      <created>1764577938330</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1764577938331</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="basic ques" />
     <MESSAGE value="ques_27/11/2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="ques_27/11/2025" />
+    <MESSAGE value="ques_01/12/2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="ques_01/12/2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
