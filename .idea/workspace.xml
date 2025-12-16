@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94150147-9893-44f8-b822-e694f8cdd60d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/remove_all_adjacent_duplicates_in_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sqare_of_sorted_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/split_a_StinginBalanced.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maxConsecutiveones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maxConsecutiveones.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
