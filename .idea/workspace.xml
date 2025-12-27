@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94150147-9893-44f8-b822-e694f8cdd60d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/check_if_all_char_hhave_equal_number_of_occurence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kth_distinct_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallest_index_wd_eql_values.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contained_With_most_water_M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rotate_matrix_by_90degree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sinle_Element_in_Sorted_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1765978409131</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ques_27/12/2025_3Ez">
+      <created>1766829544209</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1766829544209</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -123,7 +130,8 @@
     <MESSAGE value="ques_13/12/2025" />
     <MESSAGE value="ques_16/12/2025" />
     <MESSAGE value="ques_17/12/2025_linkedlist" />
-    <option name="LAST_COMMIT_MESSAGE" value="ques_17/12/2025_linkedlist" />
+    <MESSAGE value="ques_27/12/2025_3Ez" />
+    <option name="LAST_COMMIT_MESSAGE" value="ques_27/12/2025_3Ez" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
