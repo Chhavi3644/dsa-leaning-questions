@@ -24,3 +24,4 @@ public class capitalize_thefirstletter_of_each_word {
         return sb.toString().trim();
     }
 }
+ 

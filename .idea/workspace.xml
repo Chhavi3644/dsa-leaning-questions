@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94150147-9893-44f8-b822-e694f8cdd60d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/capitalize_thefirstletter_of_each_word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/removindDup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort_the_people.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/capitalize_thefirstletter_of_each_word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/capitalize_thefirstletter_of_each_word.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1766936420748</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ques_29/12/2025_3Md">
+      <created>1767027551117</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1767027551117</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -147,7 +154,8 @@
     <MESSAGE value="ques_27/12/2025_3Ez" />
     <MESSAGE value="ques_27/12/2025_3Md" />
     <MESSAGE value="ques_28/12/2025_3Md" />
-    <option name="LAST_COMMIT_MESSAGE" value="ques_28/12/2025_3Md" />
+    <MESSAGE value="ques_29/12/2025_3Md" />
+    <option name="LAST_COMMIT_MESSAGE" value="ques_29/12/2025_3Md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
