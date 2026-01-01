@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94150147-9893-44f8-b822-e694f8cdd60d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sort_the_people.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/minimum_common_values.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/capitalize_thefirstletter_of_each_word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/capitalize_thefirstletter_of_each_word.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
