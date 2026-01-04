@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94150147-9893-44f8-b822-e694f8cdd60d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/minimum_common_values.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Check_vowel_in_arr_of_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atnate_digit_sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concatenation_two_number_in_arr_and_then_add.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,6 +176,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/learning_dsa$Search_insert.ic" NAME="Search_insert Coverage Results" MODIFIED="1763627554749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/learning_dsa$atnate_digit_sum.ic" NAME="atnate_digit_sum Coverage Results" MODIFIED="1767502105167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/learning_dsa$guess_number_higher_or_lower.ic" NAME="guess_number_higher_or_lower Coverage Results" MODIFIED="1764269322860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
