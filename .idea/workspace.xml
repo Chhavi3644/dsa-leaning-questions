@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94150147-9893-44f8-b822-e694f8cdd60d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Check_vowel_in_arr_of_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atnate_digit_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concatenation_two_number_in_arr_and_then_add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/findPairs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1767027551117</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="ques_4/1/2026_3Ez">
+      <created>1767506756003</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1767506756003</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -156,7 +161,8 @@
     <MESSAGE value="ques_27/12/2025_3Md" />
     <MESSAGE value="ques_28/12/2025_3Md" />
     <MESSAGE value="ques_29/12/2025_3Md" />
-    <option name="LAST_COMMIT_MESSAGE" value="ques_29/12/2025_3Md" />
+    <MESSAGE value="ques_4/1/2026_3Ez" />
+    <option name="LAST_COMMIT_MESSAGE" value="ques_4/1/2026_3Ez" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
