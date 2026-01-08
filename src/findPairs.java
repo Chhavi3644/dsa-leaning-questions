@@ -21,7 +21,7 @@ public class findPairs {
                 mp.put(arr[i],1);
             }
         }
-        Set<Integer> st=mp.keySet();
+        Set<Integer> st=mp.keySet() ;
         for (int num:st){
             if(k>0 && mp.containsKey(num+k)){
                 count++;
