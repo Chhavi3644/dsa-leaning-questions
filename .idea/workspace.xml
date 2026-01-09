@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94150147-9893-44f8-b822-e694f8cdd60d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/word_pat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/longestconsecutive_segment_of_once_than_zeroes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findPairs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1767633267930</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="ques_8/1/2026_3Ez">
+      <created>1767869236052</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1767869236052</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -171,7 +177,8 @@
     <MESSAGE value="ques_29/12/2025_3Md" />
     <MESSAGE value="ques_4/1/2026_3Ez" />
     <MESSAGE value="ques_5/1/2026_3Ez" />
-    <option name="LAST_COMMIT_MESSAGE" value="ques_5/1/2026_3Ez" />
+    <MESSAGE value="ques_8/1/2026_3Ez" />
+    <option name="LAST_COMMIT_MESSAGE" value="ques_8/1/2026_3Ez" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
